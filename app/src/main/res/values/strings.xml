@@ -1,0 +1,16 @@
+<resources>
+	<string name="app_name">Which Animal Are You</string>
+	<string name="submit">Submit</string>
+	<string name="short_text">Cras iaculis ultricies nulla.</string>
+	<string name="hint">Your caption</string>
+	<string name="your_caption">Your caption</string>
+	<string name="default_caption">Default</string>
+	<string name="title">Please rate the following statements!</string>
+	<string-array name="answers">
+		<item>Very Unlikely</item>
+		<item>Unlikely</item>
+		<item>Possible</item>
+		<item>Likely</item>
+		<item>Very Likely</item>
+	</string-array>
+</resources>
